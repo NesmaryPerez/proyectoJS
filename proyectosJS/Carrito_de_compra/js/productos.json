@@ -1,0 +1,212 @@
+[
+    {
+        "id": "PC-01",
+        "titulo": "PC 01",
+        "imagen": "img/pc/01.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PC-02",
+        "titulo": "PC 02",
+        "imagen": "img/pc/02.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PC-03",
+        "titulo": "PC 03",
+        "imagen": "img/pc/03.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PC-04",
+        "titulo": "PC 04",
+        "imagen": "img/pc/04.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PC-05",
+        "titulo": "PC 05",
+        "imagen": "img/pc/05.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Laptos-01",
+        "titulo": "Laptos 01",
+        "imagen": "./img/laptos/01.jpg",
+        "categoria": {
+            "nombre": "laptos",
+            "id": "Laptos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Laptos-02",
+        "titulo": "Laptos 02",
+        "imagen": "./img/laptos/02.jpg",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "Laptos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Laptos-03",
+        "titulo": "Laptos 03",
+        "imagen": "./img/laptos/03.jpg",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "Laptos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Laptos-04",
+        "titulo": "Laptos 04",
+        "imagen": "./img/laptos/04.jpg",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "Laptos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Laptos-05",
+        "titulo": "Laptos 05",
+        "imagen": "./img/laptos/05.jpg",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "Laptos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Laptos-06",
+        "titulo": "Laptos 06",
+        "imagen": "./img/laptos/06.jpg",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "Laptos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Laptos-07",
+        "titulo": "Laptos 07",
+        "imagen": "./img/laptos/07.jpg",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "Laptos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Laptos-08",
+        "titulo": "Laptos 08",
+        "imagen": "./img/laptos/08.jpg",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "Laptos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Componentes-01",
+        "titulo": "Componentes 01",
+        "imagen": "img/componentes/01.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "Componentes"
+        },
+        "precio": 1000
+    },
+    {
+       "id": "Componentes-02",
+        "titulo": "Componentes 02",
+        "imagen": "img/componentes/02.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "Componentes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón 03",
+        "imagen": "img/componentes/03.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "Componentes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón 04",
+        "imagen": "img/componentes/04.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "Componentes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Componentes-05",
+        "titulo": "Componentes 05",
+        "imagen": "img/componentes/05.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "Componentes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Componentes-06",
+        "titulo": "Componentes 06",
+        "imagen": "img/componentes/06.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "Componentes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Componentes-07",
+        "titulo": "Componentes 07",
+        "imagen": "img/componentes/07.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "Componentes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Componentes-08",
+        "titulo": "Componentes 08",
+        "imagen": "img/componentes/08.jpg",
+        "categoria": {
+            "nombre": "Componentes",
+            "id": "Componentes"
+        },
+        "precio": 1000
+    }
+]
